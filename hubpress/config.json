@@ -4,7 +4,13 @@
     "repositoryName": "minditech.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Mindi's blog",
+    "logo": "https://mindi.io/images/logo-dark.opt.png",
+    "cover": "http://beta.mindi.io/images/contours.png"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
