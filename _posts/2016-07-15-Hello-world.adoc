@@ -1,3 +1,4 @@
 = Hello, world!
+:hp-tags: tests
 
 hi
